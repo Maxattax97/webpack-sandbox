@@ -9,7 +9,7 @@ module.exports = {
     doghouse: './src/doghouse.ts',
   },
   // devtool: 'inline-source-map',
-  devtool: 'cheap-module-source-map',
+  devtool: 'source-map',
   module: {
     rules: [
       {
